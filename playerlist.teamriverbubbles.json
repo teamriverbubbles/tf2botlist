@@ -4,12 +4,12 @@
 		"authors": [
 			"xavierhorwood"
 		],
-		"description": "teamriverbubbles player blacklist for TF2 Bot Detector.",
-		"title": "teamriverbubbles player blacklist",
+		"description": "teamriverbubbles botlist",
+		"title": "teamriverbubbles botlist",
 		"update_url": "https://raw.githubusercontent.com/teamriverbubbles/tf2botlist/main/playerlist.teamriverbubbles.json"
 	},
 	"players": [
-		{
+				{
 			"attributes": [
 				"cheater"
 			],
@@ -662,4 +662,3 @@
 		}
 	]
 }
->>>>>>> 22c96f1 (init)
