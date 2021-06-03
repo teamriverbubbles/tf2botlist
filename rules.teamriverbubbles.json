@@ -15,12 +15,15 @@
 					"cheater"
 				]
 			},
-			"description": "bots",
+			"description": "antibots",
 			"triggers": {
 				"avatar_match": [
 					{
 						"avatar_hash": "69f526c759ac11fac3958c72b5fcf83434c4a281"
-					}
+					},
+                    {
+                        "avatar_hash": "4e98648f02e5804d3d30a095380ea0a34c9c8026"
+                    }
 				],
 				"mode": "match_any"
 				}
