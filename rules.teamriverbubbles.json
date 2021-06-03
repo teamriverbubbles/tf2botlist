@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"file_info": {
+		"authors": [
+			"xavierhorwood"
+		],
+		"description": "teamriverbubbles rules",
+		"title": "teamriverbubbles rules list",
+		"update_url": "https://raw.githubusercontent.com/teamriverbubbles/tf2botlist/main/rules.teamriverbubbles.json"
+	},
+	"rules": [
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "bots",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "69f526c759ac11fac3958c72b5fcf83434c4a281"
+					}
+				],
+				"mode": "match_any"
+				}
+		}
+	]
+}
