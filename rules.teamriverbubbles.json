@@ -39,7 +39,8 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"waffen-ss"
+						"waffen-ss",
+						"botpolice"
 					]
 				}
 			}
