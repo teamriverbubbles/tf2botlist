@@ -26,24 +26,6 @@
 					}
 				]
 			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "waffen bots",
-			"triggers": {
-				"username_text_match": {
-					"case_sensitive": false,
-					"mode": "contains",
-					"patterns": [
-						"waffen-ss",
-						"botpolice"
-					]
-				}
-			}
 		}
 	]
 }
